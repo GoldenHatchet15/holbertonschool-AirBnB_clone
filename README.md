@@ -169,5 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Ladie juarbe
-Rafael santos
+Ladie juarbe, Rafael santos
