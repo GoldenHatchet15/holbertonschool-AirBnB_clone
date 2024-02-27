@@ -10,7 +10,7 @@ class Test_Console(unittest.TestCase):
     """Test the HBNBCommand Console"""
 
 #     def test_help(self):
-#         """Tests the help commmand"""
+#         """Tests the help command"""
 #         with patch('sys.stdout', new=StringIO()) as f:
 #             HBNBCommand().onecmd("help")
 #         string = """
@@ -35,7 +35,7 @@ EOF  all  count  create  destroy  help  quit  show  update\n
     # Test cases for quit
 
     def test_do_quit(self):
-        """Tests the quit commmand"""
+        """Tests the quit command"""
         with patch('sys.stdout', new=StringIO()) as f:
             HBNBCommand().onecmd("quit")
         # modelling what happens when someone types `quit`
@@ -52,7 +52,7 @@ EOF  all  count  create  destroy  help  quit  show  update\n
 
     # Test cases for EOF
     def test_do_EOF(self):
-        """Tests the EOF commmand"""
+        """Tests the EOF command"""
         with patch('sys.stdout', new=StringIO()) as f:
             HBNBCommand().onecmd("EOF")
         # modelling what happens when user types `quit`
