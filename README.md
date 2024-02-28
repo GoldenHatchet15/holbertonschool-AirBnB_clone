@@ -1,5 +1,6 @@
 # The AirBnB Clone Project
-![alt text](hq720.jpg)
+
+![hq720](https://github.com/GoldenHatchet15/holbertonschool-AirBnB_clone/assets/139393459/9bab71d9-db50-46f3-bd86-c387055a39ab)
 
 ## Project Description
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
