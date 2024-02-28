@@ -105,6 +105,5 @@ class HBNBCommand(cmd.Cmd):
             setattr(instance, args[2], args[3])
             instance.save()
 
-
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
