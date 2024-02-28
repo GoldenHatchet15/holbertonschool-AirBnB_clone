@@ -171,3 +171,6 @@ The recognizable commands by the interpreter are the following:
 ## Authors
 
 Ladie juarbe, Rafael santos
+
+## License
+Public Domain. No copy write protection.
